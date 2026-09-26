@@ -17,6 +17,7 @@ between multiple PHP versions in XAMPP.
 ## Download
 
 Download the latest version from the Releases section.
+https://github.com/mtm-zakir/PHP-Switcher-Releases/releases/tag/v1.0
 
 ## Platform
 
