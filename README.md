@@ -1,4 +1,5 @@
 # PHP Switcher for XAMPP
+<img width="1536" height="915" alt="20d0230b-2f65-419c-95b9-2f0fe49daaa1" src="https://github.com/user-attachments/assets/6c2f1086-34a5-49f4-97b9-6aea50724fde" />
 
 A fast, modern Windows desktop application for managing and switching between multiple PHP versions in XAMPP with automatic Apache configuration, backups, and phpMyAdmin theming.
 
